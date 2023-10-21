@@ -86,13 +86,13 @@
                   
   <br>
 
-  <img  align="center"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gadhiyamanan&theme=radical&hide_border=true" />
+  <img  align="center"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vampire32&theme=radical&hide_border=true" />
   
 <table border="0" align="center">
 <tr border="0">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=gadhiyamanan&theme=cobalt&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=vampire32&theme=cobalt&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gadhiyamanan&theme=dark&hide_border=true" />
 
@@ -102,7 +102,7 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gadhiyamanan&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vampire32&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
@@ -154,7 +154,7 @@
 
 
 
-[![Github Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gadhiyamanan&theme=github-compact)](https://github.com/vampire32/github-readme-activity-graph)
+[![Github Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vampire32&theme=github-compact)](https://github.com/vampire32/github-readme-activity-graph)
 
 
 
@@ -170,16 +170,16 @@
   <h3><b>😄 Can Connect With Me On</b></h3>
   </div>
 <p align="center">
-<a href="https://www.linkedin.com/in/manan-gadhiya-4582b1182/" target="_blank">
+<a href="#" target="_blank">
   <img align="center" alt="Arslan Ahmed | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/manan_gadhiya_18/" target="_blank">
+<a href="#" target="_blank">
   <img align="center" alt="Arslan Ahmed | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 </a> &nbsp;&nbsp;
-<a href="mailto:gadhiyamanan18@gmail.com" >
+<a href="#" >
   <img align="center" alt="Arslan Ahmed | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/13732190/manan-gadhiya">
+<a href="#">
     <img align="center" alt="Arslan Ahmed | Stackoverflow" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/stack2.png" />
 </a> &nbsp;&nbsp;
 <p>
