@@ -171,16 +171,16 @@
   </div>
 <p align="center">
 <a href="https://www.linkedin.com/in/manan-gadhiya-4582b1182/" target="_blank">
-  <img align="center" alt="Manan Gadhiya | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  <img align="center" alt="Arslan Ahmed | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://www.instagram.com/manan_gadhiya_18/" target="_blank">
-  <img align="center" alt="Manan Gadhiya | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  <img align="center" alt="Arslan Ahmed | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 </a> &nbsp;&nbsp;
 <a href="mailto:gadhiyamanan18@gmail.com" >
-  <img align="center" alt="Manan Gadhiya | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  <img align="center" alt="Arslan Ahmed | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/13732190/manan-gadhiya">
-    <img align="center" alt="Manan Gadhiya | Stackoverflow" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/stack2.png" />
+    <img align="center" alt="Arslan Ahmed | Stackoverflow" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/stack2.png" />
 </a> &nbsp;&nbsp;
 <p>
   
