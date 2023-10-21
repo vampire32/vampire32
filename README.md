@@ -154,7 +154,7 @@
 
 
 
-[![Github Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vampire32&theme=github-compact)](https://github.com/vampire32/github-readme-activity-graph)
+[![Github Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gadhiyamanan&theme=github-compact)](https://github.com/vampire32/github-readme-activity-graph)
 
 
 
@@ -192,7 +192,7 @@
     
 <!-- retro visitor counter -->  
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/vampire32/count.svg" />  
+  <img src="https://profile-counter.glitch.me/gadhiyamanan/count.svg" />  
 </p>
    
 </center>
