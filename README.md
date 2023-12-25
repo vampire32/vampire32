@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Arslan Ahmed.
+## I'm Syed ABdul Moiz Shah.
 
 ### 💻 &nbsp;About Me 
 
