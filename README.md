@@ -85,7 +85,7 @@
                   
   <br>
 
-  <img  align="center"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vampire32&theme=radical&hide_border=true" />
+
   
 <table border="0" align="center">
 <tr border="0">
