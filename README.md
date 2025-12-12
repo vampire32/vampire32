@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Muhammad Anas.
+## I'm Syed Abdul Moiz Shah
 
 ### 💻 &nbsp;About Me 
 
