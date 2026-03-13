@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Anas Javed
+## I'm Syed Abdul Moiz Shah
 
 ### 💻 &nbsp;About Me 
 
